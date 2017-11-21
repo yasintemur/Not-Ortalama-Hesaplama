@@ -1,0 +1,11 @@
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11-AA Ortalama Hesaplama.exe
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11-AA Ortalama Hesaplama.pdb
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\11-AA Ortalama Hesaplama.exe
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\11-AA Ortalama Hesaplama.pdb
+C:\Users\Windows 8.1\Desktop\belgehesapla 11-aa\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
